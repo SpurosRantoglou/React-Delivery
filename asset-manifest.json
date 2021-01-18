@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Delivery/static/css/main.b9bb8acd.chunk.css",
+    "main.js": "/React-Delivery/static/js/main.375c1b91.chunk.js",
+    "main.js.map": "/React-Delivery/static/js/main.375c1b91.chunk.js.map",
+    "runtime-main.js": "/React-Delivery/static/js/runtime-main.6b225608.js",
+    "runtime-main.js.map": "/React-Delivery/static/js/runtime-main.6b225608.js.map",
+    "static/js/2.5505effd.chunk.js": "/React-Delivery/static/js/2.5505effd.chunk.js",
+    "static/js/2.5505effd.chunk.js.map": "/React-Delivery/static/js/2.5505effd.chunk.js.map",
+    "static/js/3.c671b6d2.chunk.js": "/React-Delivery/static/js/3.c671b6d2.chunk.js",
+    "static/js/3.c671b6d2.chunk.js.map": "/React-Delivery/static/js/3.c671b6d2.chunk.js.map",
+    "index.html": "/React-Delivery/index.html",
+    "static/css/main.b9bb8acd.chunk.css.map": "/React-Delivery/static/css/main.b9bb8acd.chunk.css.map",
+    "static/js/2.5505effd.chunk.js.LICENSE.txt": "/React-Delivery/static/js/2.5505effd.chunk.js.LICENSE.txt",
+    "static/media/featured3.f425757f.jpg": "/React-Delivery/static/media/featured3.f425757f.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/React-Delivery/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.513ed51a.jpg": "/React-Delivery/static/media/product-1.513ed51a.jpg",
+    "static/media/product-2.95f10d12.jpg": "/React-Delivery/static/media/product-2.95f10d12.jpg",
+    "static/media/product-3.115cc32b.jpg": "/React-Delivery/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/React-Delivery/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/React-Delivery/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/React-Delivery/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b225608.js",
+    "static/js/2.5505effd.chunk.js",
+    "static/css/main.b9bb8acd.chunk.css",
+    "static/js/main.375c1b91.chunk.js"
+  ]
+}
